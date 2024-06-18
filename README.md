@@ -1,2 +1,2 @@
 # Subway_Passenger_Recommendation
-Using Gradient Boosting, predicted subway passenger counts
+Using Collaboratice Filtering, predicted subway passenger counts
